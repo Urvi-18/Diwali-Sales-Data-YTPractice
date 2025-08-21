@@ -8,5 +8,5 @@ You can also follow through: https://youtu.be/KgCgpCIOkIs?si=UVfvqYQ6C9_G4wg9 <b
 **📂Repository Contents <br>
 Diwali Sales Data.csv → The dataset provided in the tutorial. <br>
 Diwali-Sales-Data-YTPractice.ipynb → My practice Jupyter Notebook where I explored, cleaned, and analyzed the data. <br>
-Diwali-Sales-Data-YTPractice_compressed.pdf → My personal notes (mistakes + explanations) that helped me learn better.** 
+Diwali-Sales-Data-YTPractice-Urvi-18_compressed.pdf → My personal notes (mistakes + explanations) that helped me learn better.** 
 
